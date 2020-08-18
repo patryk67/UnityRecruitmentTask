@@ -10,3 +10,5 @@
 [Link to video](https://www.youtube.com/watch?v=Rpi1B95oNiA)
 
 # Screenshots:
+![App](screenshots/screenshot.png)
+![App](screenshots/screenshot2.png)
